@@ -18,7 +18,7 @@
 - Designing and optimizing **sales funnels** and lead capture
 
 ### 🛠 Tools I Use
-`Claude Code` · `Vercel` · `Supabase` · `GoHighLevel (GHL)`
+`Claude Code` · `Vercel` · `Vapi`, `Supabase` · `GoHighLevel (GHL)`
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/eriquiroz/)
